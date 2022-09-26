@@ -1,0 +1,221 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+  }
+  .contai {
+    width: 100%;
+    height: 100%;
+  }
+  .franis1 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 15px;
+  }
+  .faduu1 {
+    display: flex;
+    margin-top: 5px;
+  }
+  .didii1 {
+    margin-left: 15px;
+    font-size: 30px;
+  }
+  .inputtt {
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 14px;
+    padding-right: 300px;
+    margin-left: 30px;
+    background-color: gainsboro;
+    color: black;
+    border: 1px solid lightcyan;
+  }
+  .fa-magnifying-glass {
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 11px;
+    font-size: 20px;
+    color: #aaa;
+  }
+  .taidie1 {
+    padding: 10px 30px 10px 30px;
+    background-color: white;
+    padding-bottom: 9px;
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 4px;
+    border: #aaa solid 1px;
+    background-color: white;
+    color: #aaa;
+    border: none;
+  }
+  .cutii1{
+      margin-left: 50px;
+      font-size: 18px;
+      margin-top: 5px;
+  }
+  .taidie2{
+      margin-left:30px;
+      padding: 5px 30px 5px 30px ;
+      border-radius: 20px;
+      background-color: lime;   
+      color: white;
+      padding-bottom: 5px;
+      padding-right: 20px;
+      border: none;
+  }
+  .fa-arrow-up-from-bracket{
+      position: absolute;
+      margin-left: 255px;
+      font-size: 16px;
+      margin-top: 5px;
+      color: white;
+  }
+  .franis2{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url();
+    background-size: cover;
+    background-position: auto auto auto auto;
+    padding-top: 100px;
+    background-image: url(./38870123980-8ed014c799-b.jpg);
+    margin-top: 10px;
+    padding-bottom: 150px;
+  }
+  .khungs{
+    width: 370px;
+    height: 600px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+  }
+  .faduu3{
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+  }
+  .faduu2{
+    display: flex;
+    justify-content: center; 
+    font-size: 25px;
+  }
+  .didii2{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  .cutii2{
+    margin-left: 5px;
+    color: cadetblue;
+  }
+  .cutii3{
+    margin-left: 30px;
+    margin-right: 10px;
+    color:cornflowerblue;
+  }
+  .taidie3{
+    margin-left: 2px;
+    padding: 12px 40px 12px 40px;
+    border-radius: 30px;
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    border: none;
+  }
+  .taidie4{
+     margin-left: 15px;
+    padding: 12px 40px 12px 40px;
+    padding-right: 20px;
+    border-radius: 30px;
+    background-color:blue;
+    color: white;
+    font-size: 18px;
+    padding-left: 30px;
+    border: none;
+  }
+  .fadu3{
+     width: 300px;
+     height: 200px;
+     margin-left: 25px;
+  }
+  .textt1{
+    padding: 10px 20px 20px 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+  /* .textt2{
+    padding: 10px 20px 20px 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+  } */
+  .taidie5{
+    padding: 12px 20px 12px 20px;
+    border-radius: 20px;
+    background-color:cadetblue; 
+    color: white;  
+    font-size: 15px;
+    border: none;
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+  }
+  .didii3{
+    display: flex;
+    justify-content: center;
+  }
+  .totit{
+    color:cadetblue;
+    margin-top: 40px;
+    font-size: 15px;
+  }
+  .fadus{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    margin-top: 25px;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    padding-bottom: 20px;
+    width: 330px;
+  }
+  .csss{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    color:white;
+  }
+  .fa-facebook{
+    padding-right: 7px;
+  }
+  .fa-google{
+    padding-right: 7px;
+  }
+  .cuto{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    padding-bottom: 20px;
+    color: cadetblue;
+    margin: auto;
+    width: 330px;
+    padding-top: 25px;
+    font-size: 18px;
+  }
+  .text2{
+    margin: auto;
+    border-bottom: 10px solid rgba(0,0,0,.1);
+    width: 330px;
+    margin-top: 15px;
+  }
+  
